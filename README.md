@@ -1,0 +1,2 @@
+# search_component
+componentの使用状況確認するやつ
