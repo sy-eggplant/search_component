@@ -1,7 +1,9 @@
 # search_component
-componentの使用状況確認するファイル
+nuxtのcomponentの使用状況確認するファイル
 
 ## 使い方
+`target_dir`に検索するnuxtのディレクトリをセットする
+
 ```
 ruby search_component.rb component_name
 ```
